@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0,FLV
-http://cdnp.tremormedia.com/video/acudeo/Carrot_400x300_500kb.flv
-#EXTINF:0,RTMP
-rtmp://$OPT:rtmp-raw=rtmp://rtmp.jim.stream.vmmacdn.be app=vmma-jim-rtmplive-live playpath=jim live=1
-#EXTINF:0,Student Live Stream
-http://m4stv.inqb8r.tv/studentTV/studentTV.stream_360p/playlist.m3u8
-#EXTINF:0,BipBop Sample
-http://playertest.longtailvideo.com/adaptive/bipbop/bipbop.m3u8
-#EXTINF:0,BigBuckBunny 2 Levels
-http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8
-#EXTINF:0,HLSprovider
-http://www.hlsprovider.org/playlists/issue_026/stream_cell_16x9_440k.m3u8
+#EXTINF:0,FLV, Young man playing soccer
+https://assets.mixkit.co/videos/download/mixkit-young-man-playing-soccer-in-the-street-766.mp4
+#EXTINF:0,Beautiful aerial shot of beach shore
+https://assets.mixkit.co/videos/preview/mixkit-beautiful-aerial-shot-of-beach-shore-1085-large.mp4
+#EXTINF:0,White tiger resting in the woods
+https://assets.mixkit.co/videos/preview/mixkit-white-tiger-resting-in-the-woods-6803-large.mp4
+#EXTINF:0,A herd of lions walking
+https://assets.mixkit.co/videos/preview/mixkit-a-herd-of-lions-walking-11054-large.mp4
+#EXTINF:0,Impressive space nebula
+https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4
+#EXTINF:0,Flying over the mountains on Mars
+https://assets.mixkit.co/videos/preview/mixkit-flying-over-the-mountains-on-mars-14202-large.mp4
