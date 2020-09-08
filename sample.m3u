@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sport" tvg-name="A Sport Young man playing soccer" tvg-language="" tvg-logo="" group-title="Sport", A Sport Young man playing soccer
+#EXTINF:-1 tvg-id="sport" tvg-name="A Sport Young man playing soccer" tvg-logo="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80" group-title="Sport", A Sport Young man playing soccer
 https://assets.mixkit.co/videos/download/mixkit-young-man-playing-soccer-in-the-street-766.mp4
-#EXTINF:-1 tvg-id="nature" tvg-name="Beautiful aerial shot of beach shore" group-title="Nature", Beautiful aerial shot of beach shore
+#EXTINF:-1 tvg-id="nature" tvg-name="Beautiful aerial shot of beach shore" tvg-logo="https://images.unsplash.com/photo-1433086966358-54859d0ed716?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80" group-title="Nature", Beautiful aerial shot of beach shore
 https://assets.mixkit.co/videos/preview/mixkit-beautiful-aerial-shot-of-beach-shore-1085-large.mp4
-#EXTINF:-1 tvg-id="animal" tvg-name="White tiger resting in the woods" group-title="Animal", White tiger resting in the woods
+#EXTINF:-1 tvg-id="animal" tvg-name="White tiger resting in the woods" tvg-logo="https://images.unsplash.com/photo-1561731216-c3a4d99437d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1300&q=80" group-title="Animal", White tiger resting in the woods
 https://assets.mixkit.co/videos/preview/mixkit-white-tiger-resting-in-the-woods-6803-large.mp4
-#EXTINF:-1 tvg-id="animal2" tvg-name="A herd of lions walking" group-title="Animal", A herd of lions walking
+#EXTINF:-1 tvg-id="animal2" tvg-name="A herd of lions walking" tvg-logo="https://images.unsplash.com/photo-1573725342230-178c824a10f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1251&q=80" group-title="Animal", A herd of lions walking
 https://assets.mixkit.co/videos/preview/mixkit-a-herd-of-lions-walking-11054-large.mp4
-#EXTINF:-1 tvg-id="nature2" tvg-name="Impressive space nebula" group-title="Nature", Impressive space nebula
+#EXTINF:-1 tvg-id="nature2" tvg-name="Impressive space nebula" tvg-logo="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80" group-title="Nature", Impressive space nebula
 https://assets.mixkit.co/videos/preview/mixkit-impressive-space-nebula-14185-large.mp4
-#EXTINF:-1 tvg-id="nature3" tvg-name="Flying over the mountains on Mars" group-title="Nature", Flying over the mountains on Mars
+#EXTINF:-1 tvg-id="nature3" tvg-name="Flying over the mountains on Mars" tvg-logo="https://images.unsplash.com/photo-1556165356-d84ef32f04cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80" group-title="Nature", Flying over the mountains on Mars
 https://assets.mixkit.co/videos/preview/mixkit-flying-over-the-mountains-on-mars-14202-large.mp4
