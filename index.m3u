@@ -1,11 +1,219 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Le Chateau ambulant" tvg-name="Le Chateau ambulant", Le Chateau ambulant
-http://91.173.102.65:24115/share/MrHAeJFIwo4_gKHq/Le_Chateau_Ambulant-2004-1080p.mkv
-#EXTINF:-1 tvg-id="blue water" tvg-name="Blue water", Blue water
-https://goonfleek.s3.eu-west-3.amazonaws.com/hawaii_blue_water_4K.mp4
-#EXTINF:-1 tvg-id="petite sirene" tvg-name="petite sirene", petite sirene
-https://goonfleek.s3.eu-west-3.amazonaws.com/82117.mp4
-#EXTINF:-1 tvg-id="H.264 1080p/23.976" tvg-name="H.264 1080p/23.976", H.264 1080p/23.976
-https://goonfleek.s3.eu-west-3.amazonaws.com/FPS_test_1080p23.976_L4.1.mkv
-#EXTINF:-1 tvg-id="bbb_sunflower_native_60fps_normal" tvg-name="bbb_sunflower_native_60fps_normal", bbb_sunflower_native_60fps_normal
-http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_native_60fps_normal.mp4
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 SD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV SD (FRANCE)",|FR| TF1 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/12071
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 HD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV HD (France)",|FR| TF1 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 HEVC" tvg-logo="https://i.imgur.com/rt5UIWz.png" group-title="FR TV HEVC (France)",|FR| TF1 HEVC
+http://theking365tv.tv:2103/moha/tPSNYZpj/37214
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1149
+#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="|FR| TF1 +1 SD" tvg-logo="https://i.imgur.com/NyjHbav.png" group-title="FR TV SD (FRANCE)",|FR| TF1 +1 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/18251
+#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="|FR| TF1 +1 HD" tvg-logo="https://i.imgur.com/NyjHbav.png" group-title="FR TV HD (France)",|FR| TF1 +1 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/15504
+#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="|FR| TF1 +1 FHD" tvg-logo="https://i.imgur.com/LMxTAzY.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 +1 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/4381
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 4K HDR UHD (Résolution Exclus)" tvg-logo="https://i.imgur.com/UlG9dS2.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 4K HDR UHD (Résolution Exclus)
+http://theking365tv.tv:2103/moha/tPSNYZpj/37744
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 SD" tvg-logo="https://i.imgur.com/nl8s20a.png" group-title="FR TV SD (FRANCE)",|FR| FRANCE 2 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/22559
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="https://i.imgur.com/nl8s20a.png" group-title="FR TV HD (France)",|FR| FRANCE 2 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/2
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 HEVC" tvg-logo="https://i.imgur.com/etJfzWp.png" group-title="FR TV HEVC (France)",|FR| FRANCE 2 HEVC
+http://theking365tv.tv:2103/moha/tPSNYZpj/37187
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://i.imgur.com/nl8s20a.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1150
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 SD" tvg-logo="https://i.imgur.com/i4iugMw.png" group-title="FR TV SD (FRANCE)",|FR| FRANCE 3 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/18284
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="https://i.imgur.com/i4iugMw.png" group-title="FR TV HD (France)",|FR| FRANCE 3 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/3
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 HEVC" tvg-logo="https://i.imgur.com/1rvbXJ5.png" group-title="FR TV HEVC (France)",|FR| FRANCE 3 HEVC
+http://theking365tv.tv:2103/moha/tPSNYZpj/37188
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://i.imgur.com/i4iugMw.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 3 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1151
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 SD" tvg-logo="https://i.imgur.com/DrO2eGn.png" group-title="FR TV SD (FRANCE)",|FR| FRANCE 4 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/18283
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="https://i.imgur.com/DrO2eGn.png" group-title="FR TV HD (France)",|FR| FRANCE 4 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/4
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 HEVC" tvg-logo="https://i.imgur.com/a4UlM73.png" group-title="FR TV HEVC (France)",|FR| FRANCE 4 HEVC
+http://theking365tv.tv:2103/moha/tPSNYZpj/37189
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://i.imgur.com/DrO2eGn.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 4 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1152
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 SD" tvg-logo="https://i.imgur.com/JgRJDq3.png" group-title="FR TV SD (FRANCE)",|FR| FRANCE 5 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/18282
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="https://i.imgur.com/JgRJDq3.png" group-title="FR TV HD (France)",|FR| FRANCE 5 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/5
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 HEVC" tvg-logo="https://i.imgur.com/tbrwrH8.png" group-title="FR TV HEVC (France)",|FR| FRANCE 5 HEVC
+http://theking365tv.tv:2103/moha/tPSNYZpj/37190
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://i.imgur.com/JgRJDq3.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 5 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1153
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 SD" tvg-logo="http://i.imgur.com/EoDsMuv.png" group-title="FR TV SD (FRANCE)",|FR| M6 SD
+http://theking365tv.tv:2103/moha/tPSNYZpj/12072
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://i.imgur.com/EoDsMuv.png" group-title="FR TV HD (France)",|FR| M6 HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/6
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 HEVC" tvg-logo="https://i.imgur.com/tJwvr82.png" group-title="FR TV HEVC (France)",|FR| M6 HEVC
+http://theking365tv.tv:2103/moha/tPSNYZpj/37198
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://i.imgur.com/EoDsMuv.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 FHD
+http://theking365tv.tv:2103/moha/tPSNYZpj/1154
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 4K UHD (ONLY LIVE)" tvg-logo="https://i.imgur.com/wZmuFAl.png" group-title="FR TV FULL HD|4K  (France)",|FR| M6 4K UHD (ONLY LIVE)
+http://theking365tv.tv:2103/moha/tPSNYZpj/37745
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 INTERNATIONAL HD" tvg-logo="https://i.imgur.com/EsWn3Zn.png" group-title="FR TV HD (France)",|FR| M6 INTERNATIONAL HD
+http://theking365tv.tv:2103/moha/tPSNYZpj/20277
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Batman v Superman: Dawn of Justice (2016)" tvg-logo="http://theking365tv.ws:2103/images/cb868bc41cc36668182deceaf2249356.jpg" group-title="UHD IMAX",|IMAX UHD| Batman v Superman: Dawn of Justice (2016)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Black Panther  (2018)" tvg-logo="http://theking365tv.ws:2103/images/a7d85a497b11abfb4de719fb548605e6.jpg" group-title="UHD IMAX",|IMAX UHD| Black Panther  (2018)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Black Widow  (2021)" tvg-logo="http://theking365tv.ws:2103/images/55cf500d4f0ba48069d2856e2642a38d.jpg" group-title="UHD IMAX",|IMAX UHD| Black Widow  (2021)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Captain Marvel  (2019)" tvg-logo="http://theking365tv.ws:2103/images/6ba8fb98ed630ed91fd32f23bdf88f30.jpg" group-title="UHD IMAX",|IMAX UHD| Captain Marvel  (2019)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Iron Man  (2008)" tvg-logo="http://theking365tv.ws:2103/images/cdb6be2c8a93824d01200ab1f0d42538.jpg" group-title="UHD IMAX",|IMAX UHD| Iron Man  (2008)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Les Gardiens de la Galaxie Vol. 2  (2017)" tvg-logo="http://theking365tv.ws:2103/images/54bcbc6702aa04922550a20e334be33a.jpg" group-title="UHD IMAX",|IMAX UHD| Les Gardiens de la Galaxie Vol. 2  (2017)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Star Trek Into Darkness  (2013)" tvg-logo="http://theking365tv.ws:2103/images/25307c6a7c7f5d621cd66dc8db8e03f8.jpg" group-title="UHD IMAX",|IMAX UHD| Star Trek Into Darkness  (2013)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Thor : Ragnarok  (2017)" tvg-logo="http://theking365tv.ws:2103/images/de08b57aad3e2f923ec53efdca6f27e9.jpg" group-title="UHD IMAX",|IMAX UHD| Thor : Ragnarok  (2017)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| First Man  (2018)" tvg-logo="http://theking365tv.ws:2103/images/09bd31b36fd4d84e2fe3d100d5ef9387.jpg" group-title="UHD IMAX",|IMAX UHD| First Man  (2018)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Interstellar (2014)" tvg-logo="http://theking365tv.ws:2103/images/74f1d14c80899b11e2ec4ed977d73e16.jpg" group-title="UHD IMAX",|IMAX UHD| Interstellar (2014)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Shang-Chi et la Légende des Dix Anneaux  (2021)" tvg-logo="http://theking365tv.ws:2103/images/b0350f96be08aba506d9db9a766358df.jpg" group-title="UHD IMAX",|IMAX UHD| Shang-Chi et la Légende des Dix Anneaux  (2021)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Spider-Man : Far From Home  (2019)" tvg-logo="http://theking365tv.ws:2103/images/600ea210b17627aee26aab06be2b2e77.jpg" group-title="UHD IMAX",|IMAX UHD| Spider-Man : Far From Home  (2019)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Tenet  (2020)" tvg-logo="http://theking365tv.ws:2103/images/e703cf63c7daccc5a8e793093ad24137.jpg" group-title="UHD IMAX",|IMAX UHD| Tenet  (2020)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| The Dark Knight Rises  (2012)" tvg-logo="http://theking365tv.ws:2103/images/d0961089e953f8f2db0e91cbd664d497.jpg" group-title="UHD IMAX",|IMAX UHD| The Dark Knight Rises  (2012)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Transformers  (2007)" tvg-logo="http://theking365tv.ws:2103/images/481436afd887a45c38d0989c988924d4.jpg" group-title="UHD IMAX",|IMAX UHD| Transformers  (2007)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Transformers 2 : La Revanche  (2009)" tvg-logo="http://theking365tv.ws:2103/images/8c3792b8d57edaef6e7e72c11f9e5af0.jpg" group-title="UHD IMAX",|IMAX UHD| Transformers 2 : La Revanche  (2009)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Transformers 3 : La Face cachée de la Lune  (2011)" tvg-logo="http://theking365tv.ws:2103/images/91dafe6ce4f0ddecd14853e0636038b7.jpg" group-title="UHD IMAX",|IMAX UHD| Transformers 3 : La Face cachée de la Lune  (2011)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Transformers : L’Âge de l’extinction  (2014)" tvg-logo="http://theking365tv.ws:2103/images/6bdb5dadd1c900f3b7c7e90a3f21498e.jpg" group-title="UHD IMAX",|IMAX UHD| Transformers : L’Âge de l’extinction  (2014)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Transformers : The Last Knight  (2017)" tvg-logo="http://theking365tv.ws:2103/images/0a2fecbc29d2a9d3a40da4160a727bac.jpg" group-title="UHD IMAX",|IMAX UHD| Transformers : The Last Knight  (2017)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Wonder Woman 1984  (2020)" tvg-logo="http://theking365tv.ws:2103/images/a2f9d5931c614bdf500f233c6e8efd20.jpg" group-title="UHD IMAX",|IMAX UHD| Wonder Woman 1984  (2020)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Zack Snyder's Justice League  (2021)" tvg-logo="http://theking365tv.ws:2103/images/b415173a976ca04a8ee9209ee8d245ba.jpg" group-title="UHD IMAX",|IMAX UHD| Zack Snyder's Justice League  (2021)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="|IMAX UHD| Extreme Adventure - Hidden Universe  (2016)" tvg-logo="http://theking365tv.ws:2103/images/0d89915d86b5f61839d1fe2258cfaadb.jpg" group-title="UHD IMAX",|IMAX UHD| Extreme Adventure - Hidden Universe  (2016)
+http://theking365tv.tv:2103/movie/moha/tPSNYZpj/71818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/aGKZirZsUhyhnLG4nNwHGvNcuZ0.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E01
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/An7cmBwndUCkLrtDEFUb9AH1IM1.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E02
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/u6S0A3rWqJnYy3yIfa9Ku6ojdT8.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E03
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/524wMSgTQYI12nLfEVprLh1LhUG.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E04
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/4TyGt6BsvFJM6JcQ8Q8Xpar2P5t.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E05
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/pom3t5OcbaqpOc88W1OOAZmxD2Q.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E06
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/dWTdxp5PSj3xWZyY631C22gDGus.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E07
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ur0LXfk9hIwmedBkg7MmxvcS87t.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E08
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/2KRDqL0QJmf14U8Z4Ad6rKavmt.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E09
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/xkruJON9BZ2g15LWHyICp1X4o2T.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E10
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E11" tvg-logo="https://image.tmdb.org/t/p/w185/3H0QFqV4OI4CBu3H3ETlNZ3msee.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E11
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E12" tvg-logo="https://image.tmdb.org/t/p/w185/2gJKIqshW9J1geY8zjK7iasQIKD.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E12
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E13" tvg-logo="https://image.tmdb.org/t/p/w185/hJkcZCTPQ582HOaJcXffNch2IfT.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E13
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E14" tvg-logo="https://image.tmdb.org/t/p/w185/pllWSA7MdhLRk4ltvXVBZQWEAZW.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E14
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E15" tvg-logo="https://image.tmdb.org/t/p/w185/wnhKYdQSvzA70eLPRRy1B2rI4XR.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E15
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E16" tvg-logo="https://image.tmdb.org/t/p/w185/zZ0KPqgdUJk0QM74NTVyuEhTWld.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E16
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E17" tvg-logo="https://image.tmdb.org/t/p/w185/6Lo44pNhQTVOnCK6NqLs7a1rPZR.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E17
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E18" tvg-logo="https://image.tmdb.org/t/p/w185/fYEwBi1k6NJihvGZK6FsLSQxp3c.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E18
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E19" tvg-logo="https://image.tmdb.org/t/p/w185/2jNhyg4PDIdslD2c7ko8cXdRIB8.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E19
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E20" tvg-logo="https://image.tmdb.org/t/p/w185/gMTGsTB4FswEwhNKVklF238DXrI.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E20
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E21" tvg-logo="https://image.tmdb.org/t/p/w185/5QhNCyrzLmUgOZi9Uw7NrJFslbO.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E21
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E22" tvg-logo="https://image.tmdb.org/t/p/w185/yl7G1oml4LMbaAoaHCIAOMtXy8P.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E22
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E23" tvg-logo="https://image.tmdb.org/t/p/w185/5BkP2BQKN164lCdQx6B2nouLh8d.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E23
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E24" tvg-logo="https://image.tmdb.org/t/p/w185/oFI5SNIjH4npsThiBFdcMqAWv7s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E24
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S01 E25" tvg-logo="https://image.tmdb.org/t/p/w185/ikJ0uZtbMKvGaVADjaRZ6PU1oCe.jpg" group-title="MANGAS",Naruto (MULTI) FHD S01 E25
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E01" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E01
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E02" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E02
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E03" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E03
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E04" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E04
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E05" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E05
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E06" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E06
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E07" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E07
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E08" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E08
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E09" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E09
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E10" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E10
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E11" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E11
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E12" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E12
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E13" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E13
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E14" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E14
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E15" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E15
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E16" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E16
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E17" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E17
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E18" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E18
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E19" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E19
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E20" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E20
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E21" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E21
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E22" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E22
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E23" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E23
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E24" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E24
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E25" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E25
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S02 E26" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S02 E26
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S03 E01" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S03 E01
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S03 E02" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S03 E02
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S03 E03" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S03 E03
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S03 E04" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S03 E04
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S03 E05" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S03 E05
+http://theking365tv.tv:2103/series/moha/tPSNYZpj/82127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto (MULTI) FHD S03 E06" tvg-logo="https://image.tmdb.org/t/p/w154/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg" group-title="MANGAS",Naruto (MULTI) FHD S03 E06
