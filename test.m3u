@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, HDR10 Tone Mapping Test
+https://github.com/mpvkit/video-test/raw/master/resources/HDR10_ToneMapping_Test_240_1000_nits.mp4
+
+#EXTINF:-1, h264
+https://vjs.zencdn.net/v/oceans.mp4
+
+#EXTINF:-1, h265
+https://github.com/mpvkit/video-test/raw/master/resources/h265.mp4
+
+#EXTINF:-1, Subtitle Test
+https://github.com/mpvkit/video-test/raw/master/resources/pgs_subtitle.mkv
+
+#EXTINF:-1, HDR Test
+https://github.com/mpvkit/video-test/raw/master/resources/hdr.mkv
+
+#EXTINF:-1, Dolby Vision Profile 5
+https://github.com/mpvkit/video-test/raw/master/resources/DolbyVision_P5.mp4
+
+#EXTINF:-1, Dolby Vision Profile 8
+https://github.com/mpvkit/video-test/raw/master/resources/DolbyVision_P8.mp4
