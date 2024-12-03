@@ -2,6 +2,12 @@
 #EXTINF:-1, HDR10 Tone Mapping Test
 https://github.com/mpvkit/video-test/raw/master/resources/HDR10_ToneMapping_Test_240_1000_nits.mp4
 
+#EXTINF:-1, Dolby Digital plus 7.1
+https://d4e5f6.debrid.it/dl/3dpertc2739/Dolby%20Digital%20Plus%20E-AC3%207.1.mp4
+
+#EXTINF:-1, Dolby 5.1
+https://a1b2c3.debrid.it/dl/3dpess3d9e0/AAC%205.1.mp4
+
 #EXTINF:-1, h264
 https://vjs.zencdn.net/v/oceans.mp4
 
