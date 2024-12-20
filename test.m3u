@@ -23,5 +23,8 @@ https://github.com/mpvkit/video-test/raw/master/resources/hdr.mkv
 #EXTINF:-1, Dolby Vision Profile 5
 https://github.com/mpvkit/video-test/raw/master/resources/DolbyVision_P5.mp4
 
+#EXTINF:-1, Dolby Vision super Profile 5
+https://github.com/mpvkit/video-test/raw/master/resources/DolbyVision_P5.mp4
+
 #EXTINF:-1, Dolby Vision Profile 8
 https://github.com/mpvkit/video-test/raw/master/resources/DolbyVision_P8.mp4
