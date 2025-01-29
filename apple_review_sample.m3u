@@ -1,0 +1,31 @@
+#EXTM3U
+
+# --- LIVE TV CHANNELS (France) ---
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1" group-title="France",TF1 HD
+https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4
+
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="France 2" group-title="France",France 2 HD
+https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4
+
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6" group-title="France",M6 FHD
+https://sample-videos.com/video123/mp4/1080/big_buck_bunny_1080p_1mb.mp4
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte" group-title="France",Arte HD
+https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4
+
+# --- MOVIES ---
+#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies" quality="FHD",Big Buck Bunny (FHD)
+https://sample-videos.com/video123/mp4/1080/big_buck_bunny_1080p_1mb.mp4
+
+#EXTINF:-1 tvg-name="Sintel" group-title="Movies" quality="HD",Sintel (HD)
+https://sample-videos.com/video123/mp4/720/sintel_720p_1mb.mp4
+
+# --- TV SHOWS ---
+#EXTINF:-1 tvg-name="Bob l'Éponge" tvg-series="S01E01" group-title="TV Shows" quality="HD",Bob l'Éponge S01E01 (HD)
+https://sample-videos.com/video123/mp4/720/sintel_720p_1mb.mp4
+
+#EXTINF:-1 tvg-name="Bob l'Éponge" tvg-series="S01E02" group-title="TV Shows" quality="HD",Bob l'Éponge S01E02 (HD)
+https://sample-videos.com/video123/mp4/720/sintel_720p_1mb.mp4
+
+#EXTINF:-1 tvg-name="Tears of Steel" group-title="TV Shows" tvg-series="S01E01" quality="FHD",Tears of Steel S01E01 (FHD)
+https://sample-videos.com/video123/mp4/1080/tears_of_steel_1080p_1mb.mp4
