@@ -32,3 +32,94 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="https://i.imgur.com/ZGJlvlU.png" group-title="FR TV FULL HD|4K  (France)",|FR| BFM TV FHD
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Big_Buck_Bunny_first_frame.png" group-title="Movies", Big Buck Bunny
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Inception" tvg-logo="https://i.imgur.com/YhWwbNm.jpg" group-title="Movies", Inception
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight" tvg-logo="https://i.imgur.com/3dJItGJ.jpg" group-title="Movies", The Dark Knight
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar" tvg-logo="https://i.imgur.com/j9IjXyT.jpg" group-title="Movies", Interstellar
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="https://i.imgur.com/zg8K8Cw.jpg" group-title="Movies", Avatar
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://i.imgur.com/BGZqnp1.jpg" group-title="Movies", Titanic
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix" tvg-logo="https://i.imgur.com/F4f3FrO.jpg" group-title="Movies", The Matrix
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://i.imgur.com/rYh55XV.jpg" group-title="Movies", Gladiator
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings" tvg-logo="https://i.imgur.com/dTtXOP5.jpg" group-title="Movies", The Lord of the Rings
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park" tvg-logo="https://i.imgur.com/EdkHdLX.jpg" group-title="Movies", Jurassic Park
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather" tvg-logo="https://i.imgur.com/3nCpsTk.jpg" group-title="Movies", The Godfather
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Forrest Gump" tvg-logo="https://i.imgur.com/Ek13vUk.jpg" group-title="Movies", Forrest Gump
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club" tvg-logo="https://i.imgur.com/XeFJ5lz.jpg" group-title="Movies", Fight Club
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction" tvg-logo="https://i.imgur.com/JWfhp84.jpg" group-title="Movies", Pulp Fiction
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption" tvg-logo="https://i.imgur.com/3MQlXrT.jpg" group-title="Movies", The Shawshank Redemption
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lion King" tvg-logo="https://i.imgur.com/D8DukQg.jpg" group-title="Movies", The Lion King
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: A New Hope" tvg-logo="https://i.imgur.com/8rsUOyv.jpg" group-title="Movies", Star Wars: A New Hope
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="https://i.imgur.com/JZGc0Eo.jpg" group-title="Movies", Deadpool
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the Sorcerer's Stone" tvg-logo="https://i.imgur.com/55S1iwW.jpg" group-title="Movies", Harry Potter and the Sorcerer's Stone
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E01" group-title="TV Shows", Breaking Bad S01E01
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E02" group-title="TV Shows", Breaking Bad S01E02
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E03" group-title="TV Shows", Breaking Bad S01E03
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E04" group-title="TV Shows", Breaking Bad S01E04
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E05" group-title="TV Shows", Breaking Bad S01E05
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01E01" group-title="TV Shows", Game of Thrones S01E01
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01E02" group-title="TV Shows", Game of Thrones S01E02
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01E03" group-title="TV Shows", Game of Thrones S01E03
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01E04" group-title="TV Shows", Game of Thrones S01E04
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S01E05" group-title="TV Shows", Game of Thrones S01E05
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01E01" group-title="TV Shows", Stranger Things S01E01
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01E02" group-title="TV Shows", Stranger Things S01E02
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01E03" group-title="TV Shows", Stranger Things S01E03
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01E04" group-title="TV Shows", Stranger Things S01E04
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01E05" group-title="TV Shows", Stranger Things S01E05
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_stereo_abl.mp4
